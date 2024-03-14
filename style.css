@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: rgb(0, 128, 0);
+    text-shadow: 4px 1px 1px #1f1414;
+}
+
+body {
+    background-image: url(https://rare-gallery.com/uploads/posts/366406-4k-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cell{
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 64px;
+    cursor: pointer;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #0000008a;
+    border-radius: 5px
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+}
+
+footer{
+    color: rgb(0, 128, 0) ;
+    margin-top: 80px;
+    margin-left: 80%;
+    text-transform: none;
+}
+ 
